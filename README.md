@@ -11,4 +11,4 @@
 
 
 ## DASHBOARD
-![Block Diagram](Dashboard.jpg)
+![Block Diagram](Dashboard)
